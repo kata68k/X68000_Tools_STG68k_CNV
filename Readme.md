@@ -13,6 +13,7 @@
 
 ## 作成の流れ  
 1. 好きな画像を用意する。（256x256サイズの15色に減色したBMP/PNG画像データ） １キャラ32x32サイズで作成されていることが望ましい。  
+     https://x.com/kata68k/status/1960700357547340073
 1. 「png2sp68k.html」で画像データをスプライトデータ（SP/PAL）に変換する。  
      https://github.com/pirota-pirozou/PNG2SP68K  
 1. 「SHOOTING 68K」の「Shooting68K_startGide.pdf」で記載されたとおりに、「SDカードへの書き出し方法」で、「BLANK1.XDF」を作成する。（X68000 Zの対象）  
