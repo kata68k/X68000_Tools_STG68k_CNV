@@ -69,7 +69,7 @@ Xキー              ：キャンセル or サイズ変更(画像選択時)
 * IOCS.X　または、その互換ドライバ  
 
 ## ダウンロード  
-(T.B.D.)  
+[DownLoad](https://github.com/kata68k/X68000_Tools_STG68k_CNV/releases) 
 
 ## やることリスト  
 エラー処理が未実装です。  
